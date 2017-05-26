@@ -1,5 +1,5 @@
 # Project Title
-Real time clock with variale body backround.
+Real time clock with variable body backround.
 
 # Built With
 - Javascript
