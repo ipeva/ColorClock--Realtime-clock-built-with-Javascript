@@ -1,4 +1,4 @@
-# Project Title
+## Project Title
 Real time clock with variable body backround.
 
 # Built With
@@ -6,5 +6,5 @@ Real time clock with variable body backround.
 - HTML
 - CSS
 
-Project view link:
+# Project view link:
 https://ipeva.github.io/ColorClock-Realtime-clock-built-with-Javascript/
